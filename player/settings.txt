@@ -1,0 +1,9 @@
+Num_of_Pictures=8
+Pixal_row=256
+Pixal_col=144
+snd_vol=40
+wait=120
+win_x=0
+xin_y=0
+ismusic=1
+
