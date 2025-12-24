@@ -1,4 +1,4 @@
-zh-cn
+zh-cn  
 语言:python3
 预备库:{
     opencv
@@ -58,3 +58,4 @@ Note: {
     File names must be numbers, and these numbers determine the playback order of the pictures
     Audio files should be directly dragged into the player folder, and the name must be 'snd.mp3'
 }
+
